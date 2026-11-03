@@ -1,1 +1,16 @@
-
+{
+  "ads_enabled": true,
+  "test_mode": false,
+  "banner_enabled": true,
+  "interstitial_enabled": true,
+  "rewarded_enabled": true,
+  "app_open_enabled": true,
+  "reward_unlock_enabled": true,
+  "refresh_interval_seconds": 60,
+  "ad_units": {
+    "banner": "ca-app-pub-3380498514301154/4927627611",
+    "interstitial": "ca-app-pub-3380498514301154/2707612209",
+    "rewarded": "ca-app-pub-3380498514301154/7362219269",
+    "app_open": "ca-app-pub-3380498514301154/7850585687"
+  }
+}
